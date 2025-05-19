@@ -39,3 +39,4 @@ To implement **Encapsulation** in Python by defining a class `Rectangle` with **
 ![441831638-9bf23cd9-aaf2-4358-838e-539edd162088](https://github.com/user-attachments/assets/07e55bfd-4162-4418-be95-1c58191b278d)
 
 ## Result
+Thus the program to implement Encapsulation in Python by defining a class Rectangle with private member variables __length and __breadth is executed successfully.
